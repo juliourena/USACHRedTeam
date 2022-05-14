@@ -1,3 +1,6 @@
+# Blog & Author
+# https://rohnspowershellblog.wordpress.com/2013/03/19/viewing-service-acls/
+
 Add-Type  @"
   [System.FlagsAttribute]
   public enum ServiceAccessFlags : uint
